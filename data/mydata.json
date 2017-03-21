@@ -1,0 +1,14 @@
+{
+    "shoppingcart" : [{"id":1, "name":"i-phone", "price":"$649.99"},
+                   {"id":2, "name":"HP-laptop", "price":"$499.99"},
+                   {"id":3, "name":"DELL-laptop", "price":"$399.99"},
+                   {"id":4, "name":"SAMSUNG-TV", "price":"$1499.99"},
+                   {"id":5, "name":"Projector", "price":"$1899.99"},
+                   {"id":6, "name":"X-BOX", "price":"$449.99"}],
+    
+    "displayitems": [{"id":7, "name":"i-phone 7", "imageurl":"images/apple-iphone-7-1.jpg", "price":"$699.99",                                "description":"The all new Apple i-Phone 7 in jet black with built in 128GB storage capacity"},
+                    {"id":8, "name":"i-phone 7 Plus", "imageurl":"images/iphone7plus.jpg", "price":"$899.99", "description":"The all new Apple i-Phone 7 Plus UNLOCKED in GOLD color with built in 64GB storage capacity"},
+                     {"id":9, "name":"HP-ENVY Laptop", "imageurl":"images/hplaptop.jpg", "price":"$499.99", "description":"The 2-in-One light weight HP Laptop with touch screen capabilities, 4GB RAM plus 1TB Hard-Drive"},
+                     {"id":10, "name":"X-BOX360", "imageurl":"images/xbox.jpg", "price":"$449.99", "description":"The Latest version of X-BOX 360 in BLACK color with built in high speed gaming performance"}]
+
+}
